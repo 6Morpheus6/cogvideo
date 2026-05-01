@@ -18,7 +18,7 @@ module.exports = {
         path: "app",
         message: [
           "uv pip install -r requirements.txt",
-          "uv pip install hf_xet"
+          "uv pip install hf_xet tiktoken protobuf"
         ]
       }
     },
